@@ -1,0 +1,5 @@
+{
+  "name": "Any's Assistant",
+  "description": "An intelligent production planning dashboard that helps visualize schedules, track resource efficiency, and optimize workflows using Gemini AI.",
+  "requestFramePermissions": []
+}
